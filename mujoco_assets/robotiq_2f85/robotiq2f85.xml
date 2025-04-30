@@ -1,4 +1,4 @@
-<robotiq2f85_body>
+<body name="robotiq2f85_root">
   <body childclass="2f85">
     <!-- Right-hand side 4-bar linkage -->
     <body
@@ -269,4 +269,4 @@
       </body>
     </body>
   </body>
-</robotiq2f85_body>
+</body>
